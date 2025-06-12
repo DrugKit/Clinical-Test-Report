@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+google-generativeai
+Pillow
+pdf2image
+arabic-reshaper
+python-bidi
+fpdf
+
